@@ -64,7 +64,7 @@ I'm a passionate **junior fullstack developer** with a solid background in web d
 
 <p align="left">
   <a href="https://petiqueta.uy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoKasmenko&repo=petiqueta" alt="Petiqueta" />
+    <img src="https://github.com/FrancoKasmenko/petiqueta" alt="Petiqueta" />
   </a>
   <a href="https://francokasmenko.dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrancoKasmenko&repo=portfolio" alt="Portfolio" />
