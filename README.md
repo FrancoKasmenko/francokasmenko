@@ -60,13 +60,6 @@ I'm a passionate **junior fullstack developer** with a solid background in web d
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancoKasmenko&theme=algolia&show_icons=true&count_private=true&border_radius=12&hide=stars" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoKasmenko&layout=compact&theme=algolia&border_radius=12" height="150"/>
-</div>
-
 ### 🚀 Featured Projects
 
 <p align="left">
